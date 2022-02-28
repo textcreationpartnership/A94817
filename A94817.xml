@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise in iustification of the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94817</idno>
+            <idno type="STC">Wing T2091</idno>
+            <idno type="STC">Thomason E88_6</idno>
+            <idno type="STC">ESTC R22270</idno>
+            <idno type="EEBO-CITATION">99871685</idno>
+            <idno type="PROQUEST">99871685</idno>
+            <idno type="VID">124100</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94817)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124100)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E88[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise in iustification of the King.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield. Printer to the university,</publisher>
+                  <pubPlace>Oxford [i.e. London] :</pubPlace>
+                  <date>1642. [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The writer, in spite of his subject, was very anxious to avoid giving offence to the Parliament, and was clearly a resident in London, where this piece was no doubt printed with a counterfeit imprint. -- Cf. Madan.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "feb: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124100:1" rendition="simple:additions"/>
+            <p>A TREATISE IN IVSTIFICATION OF THE KING.</p>
+            <p>OXFORD, Printed by Leonard Lichfield, Printer to the Univerſity. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124100:2"/>
+            <pb n="3" facs="tcp:124100:2"/>
+            <head>A Iuſtification of the KING.</head>
+            <p>
+               <hi>TIBERIUS</hi> the third Emperour of <hi>Rome</hi> was not onely killed, and drawn through the ſtreets by the <hi>Romanes;</hi> but the Prieſts of all the Temples pray<g ref="char:EOLhyphen"/>ed unto the gods not to receive him unto them; and prayed the Infernall Furies that they would grievouſly torment him, ſaying it was juſtly required, that the Ty<g ref="char:EOLhyphen"/>rant which troubleth the good in this life, ſhould have no place amongſt the good after his death: And <hi>Tully</hi> ſpeaking of a Tyrant ſaith, <hi>non est naturae diſpar. illum ſpoli<g ref="char:EOLhyphen"/>are, quem honeſtum ect necar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> nay, the ſame Author ſaith, <hi>non ſe obſtruxit ſcelere, ſi quis Tyrannum occidit, quamvis fa<g ref="char:EOLhyphen"/>miliarem,</hi> that is, tis no wickedneſſe to kill a Tyrant: now from that ſaying of <hi>Tully,</hi> I inferre, that to kill a King is impious; nay, ſo crying is the blood of a murdered King, that the particular agent bears not all the enſuing miſery though he only gave the ſtroake, as you may ſee in the 49. of <hi>Geneſis,</hi> the ſixt and ſeventh verſes, <hi>Into their ſecret let not my ſoule come, for in their wrath they ſlew a man</hi> (now who that King was, you may ſee in the 34. Chapter) <hi>Curſed be their wrath for it was fierce, and their rage, for it was cruell, I will divide them in</hi> Jacob <hi>and ſcatter them in</hi> Iſ<g ref="char:EOLhyphen"/>raell, verſe 7. And are there not ſome in theſe times as guilty as <hi>Simeon</hi> and <hi>Levi</hi> in their deſires, though by Gods preventing grace they want their opportunities, witneſſe that unchriſtian like trayterous and diſloyall prai<g ref="char:EOLhyphen"/>er of him that wiſhed <hi>he might waſh his hands in His Maje<g ref="char:EOLhyphen"/>sties bloud;</hi> or what can be thought of that Declaration
+<pb n="4" facs="tcp:124100:3"/>
+of the Lords and Commons aſſembled in Parliament, for the raiſing of all power and force, as well Trayned Bands as others, to fight with, kill, and ſlay, by force of armes all ſuch as ſhall oppoſe them, and ſhall raiſe or con<g ref="char:EOLhyphen"/>duct any forces againſt them which are imployed in this ſervice by either or both Houſes of Parliament; and whereas they know that the King doth raiſe forces, and notwithſtanding that, they give power to kill and ſlay ſuch as raiſe or conduct forces againſt their forces; and never ſo much as except the King in that Declaration, as His Majeſty himſelfe hath obſerved: Perhaps that may be a neglect in the Clearke that delivered the Copy, or elſe in the Printer; for certainly the Parliament have a greater care of the Kings owne Perſon; but however that neglect breeds ill affections and diſloyalty in the ru<g ref="char:EOLhyphen"/>der fort of people, and therefore it deſerves to be amen<g ref="char:EOLhyphen"/>ded and corrected by the Houſe, that the Malignants (as they are called) might have nothing to object againſt them.</p>
+            <p>Another thing worth their conſideration, is that which Saint <hi>Paul</hi> mentions to the <hi>Romanes</hi> in the 16. Chapter, 17 and 18. verſes, <hi>I beſeech you Brethren marke them diligently which cauſe diviſion, &amp; offences contrary to the Doctrine which you have learn'd, and avoid them:</hi> And let any man judge whether there are not ſuch in theſe times: the Parliament is the only meanes we have to redreſſe thoſe grievances which are and will be (if ſuffered) far worſe then that of Shipmony, or any other that hath been remedied: Are there not like wiſe ſuch as the Apoſtle mentions in his E<g ref="char:EOLhyphen"/>piſtle to <hi>Timothy?</hi> Truce-breakers, falſe Accuſers, In<g ref="char:EOLhyphen"/>temperate men, <hi>fierce, and Deſpiſers of ſuch as are good, Trai<g ref="char:EOLhyphen"/>tors, heady, high-minded, Lovers of pleaſures more then lovers of God, having a ſhew of godlineſſe, but denying the power there<g ref="char:EOLhyphen"/>of,
+<pb n="5" facs="tcp:124100:3"/>
+from ſuch turn away, ſaith the</hi> Apoſtle, <hi>for of this ſort are they which creep into houſes, and lead away ſimple wo<g ref="char:EOLhyphen"/>men laden with ſins, and led awayſ with divers luſts: 2 Tim.</hi> 3. and 3, 4, 5, 6, verſes; certainly we have ſome peſti<g ref="char:EOLhyphen"/>lent fellows amongſt us (I name none) ſuch as are mo<g ref="char:EOLhyphen"/>vers of ſedition amongſt us throughout the world, and chief maintainers of the Sect of the <hi>Nazarites, Acts</hi> 24. 5. Nay, are there not ſuch in theſe times that give private in<g ref="char:EOLhyphen"/>formation of things which they cannot prove, according to that in the <hi>Acts, They cannot prove the things whereof they now accuſe me,</hi> Acts 24. 13.</p>
+            <p>Kings are Gods annointed, and therefore ſacred, and not to be touch'd with rude hands; though their demea<g ref="char:EOLhyphen"/>nour in Government be never ſo wicked and never ſo un<g ref="char:EOLhyphen"/>juſt, yet the Divine character of Authority enſtampt upon them, giveth him an inviolable immunity from humane hands. Hence it was that <hi>David,</hi> though him<g ref="char:EOLhyphen"/>ſelfe annointed alſo by Gods appointment, durſt not injure <hi>Saul, But his heart ſmote him for renting but the lap of</hi> Sauls <hi>garment;</hi> when God had delivered <hi>Saul</hi> into <hi>Da<g ref="char:EOLhyphen"/>vids</hi> hands: and ſhall we applaud our ſelves without re<g ref="char:EOLhyphen"/>morſe of conſcience, when we lay violent hands upon the faireſt jewell of the Crown of our Lords Annointed, and when we pluck the faireſt flower of His Garland from his head? was <hi>Saul</hi> more ſacred, more holy, more vertuous than our <hi>Charles?</hi> or have we more liberty, more priviledge to diſobey and to diſ-robe Kings of their Honor than the Jews had? or hath this Parliament a more wiſe and underſtanding heart, or a more ſincere zeale to Reformation, or a more ſacred and Divine cal<g ref="char:EOLhyphen"/>ling than <hi>David</hi> had? <hi>Oh then be wiſe yee ſonnes of men, be learned, you that take upon you to judge the earth; leſt the King of kings laugh at your folly, and cruſh you in peeces with
+<pb n="6" facs="tcp:124100:4"/>
+a rod of iron.</hi> Let it be a badge of antichriſtianity and of that Man of ſin; and odious let it be to all true zealots, to exalt themſelves againſt all that is called God, let us fear to ſeperate that which God hath conjoynd: Hath not he taught both in the Old and New Teſtament, to fear God and honor the King? and ſhall we now imagine that the diſhonoring the King, muſt be the chiefe evi<g ref="char:EOLhyphen"/>dence of our fearing God? God forbid, let us know that <hi>Rebellion is as the ſin of witchcraft;</hi> moſt odious to God, moſt bewitching and entiſing in it ſelfe: ſhall we wonder it ſhould appear maskt with Religion, and uſhe<g ref="char:EOLhyphen"/>red in with pretence of Reformation? behold the father or lyes the Devill, when he would have tempted our Sa<g ref="char:EOLhyphen"/>viour to Rebellion againſt his Father, came with <hi>ſcrip<g ref="char:EOLhyphen"/>tum est</hi> for a Preface, though he knew his miſchievous deſign of heart could not lye hid from the All-ſeeing eys of our Lord. How did <hi>Abſolon</hi> court the hearts of the <hi>Iſ<g ref="char:EOLhyphen"/>raelites,</hi> when he was hatching his odious Rebellion a<g ref="char:EOLhyphen"/>gainſt <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Father? was it not with pretence of Reforma<g ref="char:EOLhyphen"/>tio<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#UOM" extent="2+ letters">
+                  <desc>••…</desc>
+               </gap>ying, <hi>Behold thy matter is good and juſt, but there is no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="3+ letters">
+                     <desc>•••…</desc>
+                  </gap>uted of the King to heare it; oh that I were made Governour over this land, how would I do juſtice to all that came unto me:</hi> And ſhall this policy of dazling our pur<g ref="char:EOLhyphen"/>blinde mortall eys ſeem now ſtrange unto us? nay cer<g ref="char:EOLhyphen"/>tainly, were not the face of all theſe preſent diſtempers maskt with a pretence of Reformation, and uizarded with a ſeeming hatred of Superſtition; though ayming at more horrid intentions; how could we ſo ſoon have loſt and torn the unity of the Faith from the bond of Peace? do we not all beleeve in one God, worſhip one Trinity, and rely upon one Mediator, and acknowledge one way to Heaven? and ſhall the garbe and apparrell wherwith we walke this voyage, the geſture whereby we worſhip
+<pb n="7" facs="tcp:124100:4"/>
+this God, the Dialect wherein we pray to this Mediator, ſet us at a greater diſtance of affections, than if we were <hi>Turkes, Infidels,</hi> and <hi>Pagans?</hi> doth God more delight in contentions about Ceremonies, Geſtures, words, than in the peace of his Church? or ſhall the wearing of a Sur<g ref="char:EOLhyphen"/>plice, ſigning with a Croſſe, or bowing with a knee, be able to divorce Chriſt from his Spouſe? God forbid; <hi>Oh then I charge you yee Daughters of</hi> Jeruſalem, <hi>and you that wiſh well unto</hi> Sion, <hi>by the Roes and by the Hindes of the Forreſts, That yee awake not this his Spouſe, this his Beloved, untill ſhe pleaſe;</hi> let us not like the dogge in <hi>Eſops-Fables,</hi> quarrell for the ſhadow, and loſe the bone where the mar<g ref="char:EOLhyphen"/>row is; while we ſeek to purifie the Ceremony, let not the ſubſtance periſh, while we would ſettle the Church, let us not cut the throat of the State, which is the guard of the Church, who will poure a Veſſell of pure Oyle upon the floure, becauſe the out ſide of the Caske is not eye-pleaſing? or who will caſt away jewels, becauſe the Cabinet wherein they are ſuits not with his fancy? <hi>Oh then let as binde up the breaches of</hi> Sion, <hi>leaſt the Cloud depart from between the Chernbins, and the Arke fall into the hands of the uncircumciſed.</hi> Kings are Magiſtrates, and let it be our Religion to obey thoſe Magiſtrates, God hath not given them the ſword in vain, and let not us feele the power thereof for our diſobedience: Thus ſhall we fol<g ref="char:EOLhyphen"/>low the ſteps of our fore-fathers, the Apoſtles and Fathers in the Primitive Church, who choſe rather to glorifie their faith by ſuffering under, than reſiſting the power of Magiſtracy, though Tyrannicall: It is not the height of your zeal, if not guided with knowledge, can excuſe you; for then the Jews might have had a fair plea for their cru<g ref="char:EOLhyphen"/>cifying Chriſt, the Apoſtle teſtifying they did it through ignorance; and yet we, what a curſe hath dogg'd them
+<pb n="8" facs="tcp:124100:5"/>
+and their Poſterity to this day.</p>
+            <p>If the King were a Tyrant, the caſe might be other<g ref="char:EOLhyphen"/>wiſe, but tis a thing knowne to all the world, that His Majeſty hath given abundant ſatisfaction for the paſt un<g ref="char:EOLhyphen"/>happy accidents in this government; and ſo ſolemnly pro<g ref="char:EOLhyphen"/>teſted for the future, to be guided by the knowne Lawes of the Land, and to defend the truth of Religion, the Liberty of the Subject, and the priviledge of Parliament: What ſhall any man plead for himſelfe at the high Tri<g ref="char:EOLhyphen"/>bunall of the Almighty, that ſhall dare to take Weapons in his hands againſt his Anointed, let him flatter him<g ref="char:EOLhyphen"/>ſelfe how he pleaſe with his zeale, dote as he will upon his imaginary fancy, and think his infidelity in and to his Prince, an argument of his faith to God; yet miſerable will his end be who ſhall periſh in ſuch an attempt, <hi>and into the Congregation of ſuchlet not my ſoule come.</hi>
+            </p>
+            <p>In a Remonſtrance bearing date the 15. day of <hi>Decem: 1641. The diſſolution of the Parliament in</hi> 4. Caroli <hi>is mentioned, and the impriſoning of divers Members of the Houſe after it was diſſolved, not permitting their wives to come unto them, even in their time of their ſickneſſe, enfor<g ref="char:EOLhyphen"/>cing ſome to put in ſecurity of good behaviour before they were releaſed, ſtill continuing the impriſonment of thoſe which re<g ref="char:EOLhyphen"/>fuſed to be bound; which might have been perpetuall, if neceſ<g ref="char:EOLhyphen"/>ſity had not brought another Parliament to relieve them; of whom one dyed by the cruelty, and harſhneſſe of his impriſon<g ref="char:EOLhyphen"/>ment, and his blood ſtill cryes either for vengeance or repentance of thoſe Miniſters of State, who at once obſtructed the courſe both of His Majeſties juſtice and mercy.</hi>
+            </p>
+            <p>And to ſpeake truth without Faction or any Sediti<g ref="char:EOLhyphen"/>ous intent, are there not many at this time impriſoned in the ſame manner as is complained of in that Remon<g ref="char:EOLhyphen"/>ſtrance, being conſined to that unwholſome air which
+<pb n="9" facs="tcp:124100:5"/>
+the mercifull narrow grate can afford them, and that no ſooner received, but corrupted with the filthy ſtenches of thoſe naſty priſons? nay, are there not ſome in theſe times committed, and their wives (according to the words of that Remon<g ref="char:EOLhyphen"/>ſtrance) not permitted to come unto them? nay, is not Sir <hi>George Whittmore</hi> an aged man, and of e<g ref="char:EOLhyphen"/>quality, ſent to <hi>Yarmouth</hi> or ſome other priſon farre diſtant from this place, and from his wife and children? and if his eſtate ſhould miſcarry through his abſence, or his aged ſelfe, by rea<g ref="char:EOLhyphen"/>ſon of that cold and hard paſſage hee may meet with before his arrivall, would not that cry for vengeance or repentance of thoſe Miniſters of State that ſent him or cauſed it? I accuſe not the Parliament, neither can I harbour the leaſt ſuſ<g ref="char:EOLhyphen"/>pition of their juſtice, but ſure I am that it is poſſible they may lend ſome of their authority to thoſe that may abuſe it: For that Aldermans offence I queſtion it not; but I am confident an Impriſonment neerer home would have beene more mercifull: nay, to ſpeake farther, are not now many priſoners denyed to be bayled accor<g ref="char:EOLhyphen"/>ding to Law? I ſpeake not this invectively a<g ref="char:EOLhyphen"/>gainſt the Parliament, but rather declare it to them (for peradventure they may not know it) that they may remedy it: and though conveni<g ref="char:EOLhyphen"/>ence cannot be offered for a ſpeedy triall of ſome that are accuſed, becauſe there are now ſuch ur<g ref="char:EOLhyphen"/>gent occaſions; yet for thoſe that are baylable
+<pb n="10" facs="tcp:124100:6"/>
+by Law, for ſafety of their eſtates and their ſe<g ref="char:EOLhyphen"/>curity that they muſt then give, would be as cautious and as much awed by that as they are by being in priſon: I know not what the rules of State pollicy are, but I know it was the ſay<g ref="char:EOLhyphen"/>ing of a good man, that policy may governe the World, and nature policy; but Religion ſhould govern both, policy and nature may be her coun<g ref="char:EOLhyphen"/>cellors, but ſhee is the Soveraigne; they may bee uſed at ſome time with commendation, but ſhe at all times with neceſſity and approbation: I ſpeake not this either to perſwade any man to deſert the Parliament cauſe, or to incenſe the KING againſt them; neither will I take upon mee to acquitt either ſide from errors, but con<g ref="char:EOLhyphen"/>ſider them to be all Mortalls, and will ever pray that both King and People may remember their duties one to the other, and that either one ſide or other may be ſo ſenſible of whoſe duty it is to give the firſt ſtoope, that ſo by ſome di<g ref="char:EOLhyphen"/>vine aſſiſtance there may be an utter ceſſation of armes in this cauſe: tis ſaid in the <hi>Engliſh-Gentle<g ref="char:EOLhyphen"/>man,</hi> pag. 36. that ſuch is the miſery of ambitious ſpirits whoſe ends are without end, limiting their deſires to no other period then ſole Soveraignty, that they flatter themſelves in their vanity, as <hi>Pigmalion</hi> with his Image, or <hi>Narciſſus</hi> with his ſhadow; repoſing more confidence in their owne valour <hi>(Themiſtocles</hi> or <hi>Parſanias</hi> like) then on all the information of friends, or the perſwaſions of
+<pb n="11" facs="tcp:124100:6"/>
+a loyall and uncorrupted heart<g ref="char:punc">▪</g> And twas a Rule much obſerved among the <hi>Romanes,</hi> that 'twas impoſſible for them to have a victory of that War who begin it with pride, and with fierceneſſe pur<g ref="char:EOLhyphen"/>ſue it. <hi>Diall. Prim. lib. prim. cap.</hi> 8.</p>
+            <p>I ſhall not ſtand to examine who began. this warre, leaſt I ſhould inveigh againſt either ſide; but ſince 'tis unfortunately now raging, I muſt needs commend them that are carefull to appeaſe it; but for thoſe that never thinke termed honou<g ref="char:EOLhyphen"/>rable enough for a peace, let them remember that counters which ſome time ſtand for a thouſand pound, may before the account be paſt, ſtand but for a farthing: 'tis probable that thoſe who are againſt peace which hath beene offered on both ſides, may have good grounds why eithers pro<g ref="char:EOLhyphen"/>poſitions ſhould not be accepted; but woe bee to thoſe, who like <hi>Tiberius,</hi> glory in nothing ſo much as in cunningly cloaking their purpoſes with fair pretences, going inviſible, and deluding Subjects reſolutions with a ſeeming good.</p>
+            <p>
+               <hi>Valerius</hi> Conqueror of the <hi>Gaules,</hi> denyed the honour that was gotten by war, <hi>quia magis dolor civibus amiſſis, quam gaudium fuſts hoſtibus praevala <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t;</hi> and ſaith <hi>Seneca, quaeritur belli exitus, non cauſa;</hi> and 'twas the ſaying of one of the <hi>Garamants</hi> in his Speech to <hi>Alexander,</hi> that to winne true honour in this life, and a perpetuall memory after death, is to lead his life not in Wars, but to take his death in peace: and if they will but hearken to <hi>Tully,</hi>
+               <pb n="12" facs="tcp:124100:7"/>
+Hee'l tell them that <hi>multi fuerunt qui tranquillita<g ref="char:EOLhyphen"/>tem ex<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etentes, à negotijs ſe publici<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> removerunt, &amp; ad otium perfugerunt; imo principes homineſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quidem ſeveri &amp; graves<g ref="char:punc">▪</g>
+               </hi> nay, we ought to have peace with all men as much as in us lyes, <hi>Rom: 12: 18. Ephe: 4 2. Heb: 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. 14. And</hi> Abraham <hi>to buy peace, re<g ref="char:EOLhyphen"/>ſigned his right to his Nephew, Gen:</hi> 13. 8. A good patterne were it now followed, but with the loſſe of no right<g ref="char:punc">▪</g> but for thoſe that rather than em<g ref="char:EOLhyphen"/>brace<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hopefull Propoſition of peace, will freely hazard their perſons in a civill War, let me tell them, that if their lives were all they hazard, I ſhould thinke as light of it as they becauſe I am ſure the Kingdom is not endangered by ſuch mens death.</p>
+            <p>Or were it againſt a Forreign Force, where the Cauſe were publickly known, the encouragement would be the greater; but it being a civill War, Father againſt Son, Brother againſt Brother, and both pretending the ſame Cauſe, and both make<g ref="char:EOLhyphen"/>ing deep proteſtation: ſhall we fight and kill one another for we know not what, unles it be whoſe Proteſtations ſhall firſt be believed? Abſiſt, nay ſee the effects which incredulity hath produced, which are ſet forth partly in His Majeſties firſt Speech in this Parliament the third of <hi>November</hi> 1640. In which Speech, I finde nothing promi<g ref="char:EOLhyphen"/>ſed, but what hath been performed as much as in Him lay, and that every one may judge whether it hath or not, I have pen'd His Majeſties Speech,
+<pb n="13" facs="tcp:124100:7"/>
+to the end you may conſider of the performance upon the reading of the promiſe: viz.</p>
+            <floatingText xml:lang="eng" type="speech">
+               <body>
+                  <p>The knowledge <hi>I</hi> had of the deſire of my Scot<g ref="char:EOLhyphen"/>tiſh Subjects, was the cauſe of My calling the laſt Parliament; wherein had <hi>I</hi> been believed, <hi>I</hi> ſin<g ref="char:EOLhyphen"/>cerely thinke that things had not fallen out as now we ſee: But now My Lords, and Gentlemen, The honor and ſafety of this Kingdome lying ſo nearly at ſtake; <hi>I</hi> am reſolved to put my ſelf free<g ref="char:EOLhyphen"/>ly and clearly on the love and affections of My Engliſh ſubjects, as thoſe of my Lords that did waite on me at <hi>Yorke,</hi>very well remember <hi>I</hi> there Declared. Therefore My Lords <hi>I</hi> ſhall not mention My own Intereſt, or that ſupport <hi>I</hi> might juſtly expect from you, till the common ſafety be ſe<g ref="char:EOLhyphen"/>cured; though <hi>I</hi> muſt tell you, <hi>I</hi> am not aſhamed to ſay, thoſe charges <hi>I</hi> have beene at, have beene meerly for the ſecurity and good of this Kingdom, though the ſucceſſe hath not beene anſwerable to My deſires. Therefore <hi>I</hi> ſhall onely deſire you to conſider the beſt way, both for the ſafety and ſecu<g ref="char:EOLhyphen"/>rity of this Kingdom, wherein there are two parts chiefly conſiderable: Firſt the chaſing out of the Rebels, and ſecondly, the ſatisfying your grievan<g ref="char:EOLhyphen"/>ces;
+<pb n="14" facs="tcp:124100:8"/>
+wherein <hi>I</hi> ſhall promiſe you, to concurre ſo heartily and freely with you, that all the World may ſee My intentions have ever been, and ſhall be, to make this a glorious and flouriſhing King<g ref="char:EOLhyphen"/>dome: There are onely two things that <hi>I</hi> ſhall mention to you; the one is, to tell you that the loan of money which <hi>I</hi> lately had from the Citie of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> wherein the Lords that waited on Me at <hi>Yorke</hi> aſſiſted me, will only maintain My Army for two Moneths, from the beginning of that time it was granted. Now My Lords and Gentlemen <hi>I</hi> leave it to your Conſiderations, what diſhonour and miſchiefe it might be, in caſe that for want of money My Army be diſbanded, before the Re<g ref="char:EOLhyphen"/>bels be put out of this Kingdome; Secondly, the ſecuring the Northern people from thoſe calami<g ref="char:EOLhyphen"/>ties they at this time endure, ſo long as the Treaty is on foot: and in this I may ſay, not only they, but all this whole Kingdome will ſuffer the harm: Therefore <hi>I</hi> leave this alſo to your conſideration, for the ordering of theſe great affairs, whereof you are to treate at this time. I am ſo confident of your love to Me, and that your care is for the ho<g ref="char:EOLhyphen"/>nor and ſafety of the Kingdome, that I ſhall free<g ref="char:EOLhyphen"/>ly
+<pb n="15" facs="tcp:124100:8"/>
+and willingly leave to you where to begin; onely this, That you may the better know the ſtate of all the affairs, <hi>I</hi> have Commanded my Lord Keeper to give you a ſhort and free Accompt of theſe things that have happened in this interim, with this Protestation; That if this Accompt be not ſatisfactory as it ought to be, <hi>I</hi> ſhall whenſoever you deſire, give you a full and perfect Accompt of every particular. One thing more <hi>I</hi> deſire of you, as one of the greateſt meanes to make this a happy Parliament; That you on your parts, as <hi>I</hi> on mine, lay aſide all ſuſpition one of another, and as <hi>I</hi> promiſed my Lords at <hi>Yorke,</hi>it ſhall not be my fault if this be not a happy and good <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi>
+                  </p>
+               </body>
+            </floatingText>
+            <p>And if all this Speech promiſeth be not perfor<g ref="char:EOLhyphen"/>med, let the whole World judge; Witneſſe His paſſing a Bill for the Biſhops Votes, the Starre-Chamber, and High-Commiſſion Court, the laying down of Shipmoney, the ſigning the war<g ref="char:EOLhyphen"/>rant againſt <hi>Strafford,</hi> and the referring the execu<g ref="char:EOLhyphen"/>tion of the now condemned Prieſt, to the will and pleaſure of the Parliament (though contrary to His deſire of ſhewing Mercy) rather than hin<g ref="char:EOLhyphen"/>der the deſired Reformation. What then, ſhall
+<pb n="16" facs="tcp:124100:9"/>
+we be thought a yet faithleſſe Nation, ſurely here is reaſon ſufficient whereon we may ground our beliefe.</p>
+            <p>And thus with a modeſt zeale, I have diſchar<g ref="char:EOLhyphen"/>ged my conſcience, without care of pleaſing or fear of puniſhment; for that Court of Parlia<g ref="char:EOLhyphen"/>ment being alwayes impartiall, is ready to heave and remedy the abuſes of either ſide, and to feare them, were to ſuſpect their Juſtice.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
